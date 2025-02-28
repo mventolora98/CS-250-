@@ -1,4 +1,4 @@
-# CS-250-
+# CS 250 - Sprint Review & Retrospective
 
 Sprint Review and Retrospective
 An outline of my Sprint Review and Retrospective for the finished project is given in this document. It emphasizes the main Scrum and Agile techniques used during the training, as well as the difficulties encountered and potential areas for development.
